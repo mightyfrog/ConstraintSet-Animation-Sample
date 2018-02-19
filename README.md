@@ -1,2 +1,2 @@
 # ConstraintSet-Animation-Sample
-A minial ConstraintSeta animation sample code.
+A minimal ConstraintSeta animation sample code.
