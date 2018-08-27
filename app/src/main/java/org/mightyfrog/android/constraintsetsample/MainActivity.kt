@@ -9,6 +9,9 @@ import android.view.animation.BounceInterpolator
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.content_main.*
 
+/**
+ * @author Shigehiro Soejima
+ */
 class MainActivity : AppCompatActivity() {
 
     private var layout = R.layout.content_main
